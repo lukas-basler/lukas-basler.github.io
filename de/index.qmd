@@ -4,7 +4,7 @@ lang: de
 page-layout: full
 ---
 
-[English version](../index.qmd)
+[English version](/index.qmd)
 
 ::: {.grid}
 

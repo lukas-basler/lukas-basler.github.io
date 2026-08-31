@@ -3,7 +3,7 @@ title: "Forschung"
 lang: de
 ---
 
-[English version](../research.qmd)
+[English version](/research.qmd)
 
 ## Forschungsinteressen
 

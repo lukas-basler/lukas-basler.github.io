@@ -3,7 +3,7 @@ title: "Über mich"
 lang: de
 ---
 
-[English version](../about.qmd)
+[English version](/about.qmd)
 
 Ich bin seit September 2026 wissenschaftlicher Mitarbeiter am Stiftungslehrstuhl für Procurement (Prof. Dr. Christoph Bode) an der Business School der Universität Mannheim.
 

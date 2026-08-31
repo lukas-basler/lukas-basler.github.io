@@ -3,6 +3,8 @@ title: "Research"
 lang: en
 ---
 
+[Deutsche Version](/de/research.qmd)
+
 ## Research Interests
 
 - Supply chain risk management

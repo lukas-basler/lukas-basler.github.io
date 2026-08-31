@@ -16,9 +16,6 @@ website:
       - href: research.qmd
         text: Research
     right:
-      - text: "DE"
-        href: de/index.qmd
-        aria-label: "Deutsche Version"
       - icon: envelope
         href: "mailto:lukas.basler@uni-mannheim.de"
         aria-label: Email

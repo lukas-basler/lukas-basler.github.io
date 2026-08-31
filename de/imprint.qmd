@@ -8,7 +8,7 @@ Identischer Inhalt wie imprint.qmd (Englisch), nur die maßgebliche deutsche Fas
 Beide Seiten synchron halten, wenn sich Anschrift, E-Mail oder Kontext ändern.
 -->
 
-[English version](../imprint.qmd)
+[English version](/imprint.qmd)
 
 ## Impressum
 

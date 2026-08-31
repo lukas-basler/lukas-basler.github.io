@@ -4,6 +4,8 @@ lang: en
 page-layout: full
 ---
 
+[Deutsche Version](/de/index.qmd)
+
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-8}

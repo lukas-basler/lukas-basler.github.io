@@ -3,6 +3,8 @@ title: "About"
 lang: en
 ---
 
+[Deutsche Version](/de/about.qmd)
+
 I have been a doctoral researcher at the Endowed Chair of Procurement (Prof. Dr. Christoph Bode) at the Business School of the University of Mannheim since September 2026.
 
 I studied economics at the University of Mannheim, completing both a B.Sc. and a M.Sc. in Economics, with exchange semesters at the University of Edinburgh and at the Solvay Brussels School of Economics and Management in Brussels. In my master's thesis I examined how global supply chain bottlenecks transmit to industrial production and producer prices in Germany and the United States. The Konrad-Adenauer-Stiftung supported my studies with a scholarship in recognition of academic achievement and voluntary engagement.

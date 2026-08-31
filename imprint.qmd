@@ -3,6 +3,8 @@ title: "Imprint and Privacy"
 lang: en
 ---
 
+[Deutsche Version](/de/imprint.qmd)
+
 <!--
 ONE OPEN QUESTION BEFORE GOING LIVE.
 
