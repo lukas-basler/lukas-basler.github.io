@@ -1,0 +1,47 @@
+---
+title: "Imprint and Privacy"
+---
+
+<!--
+ONE OPEN QUESTION BEFORE GOING LIVE.
+
+The chair address is used below as the responsible address. Confirm with the chair
+(or the university's legal office) that this is acceptable — the page is private,
+but the address is the university's. This is normally waved through, but ask rather
+than assume, and do not substitute a private address without thinking about it: a
+private address on an indexed page cannot be taken back.
+
+On whether an Impressum is required at all: § 5 DDG covers commercial services, which
+this is not. The broader clause is § 18 (1) MStV, which requires name and address for
+telemedia that do not serve exclusively personal or family purposes. A page presenting
+professional research activity is generally read as falling under it. This is the
+standard reading, not settled case law for academic homepages, and I am not a lawyer.
+
+GitHub Pages is hosted by GitHub Inc. and processes visitors' IP addresses. That is
+why the privacy section below exists. Do not add analytics, embedded fonts loaded
+from Google, or embedded videos without revisiting this page.
+-->
+
+## Imprint
+
+Information pursuant to § 18 (1) MStV:
+
+Lukas Basler<br>
+University of Mannheim, Business School<br>
+Endowed Chair of Procurement<br>
+Schloss, Schneckenhof-Ost, Room SO 207<br>
+68161 Mannheim, Germany
+
+Contact: lukas.basler\[at\]uni-mannheim.de
+
+Responsible for content: Lukas Basler
+
+This is a personal website. The views expressed here are my own and do not represent positions of the University of Mannheim or of any other institution with which I am affiliated.
+
+## Privacy
+
+This website is hosted by GitHub Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA, using the GitHub Pages service. When you visit this site, GitHub processes technical data including your IP address in server log files. Further information is available in the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
+
+This website does not set cookies, does not use analytics or tracking services, and does not embed third-party content.
+
+If you contact me by email, your message and your email address are stored for the purpose of handling your enquiry.

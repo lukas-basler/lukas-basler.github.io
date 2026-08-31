@@ -1,0 +1,64 @@
+---
+title: "About"
+---
+
+I have been a doctoral researcher at the Endowed Chair of Procurement (Prof. Dr. Christoph Bode) at the Business School of the University of Mannheim since September 2026.
+
+I studied economics at the University of Mannheim, completing both a B.Sc. and a M.Sc. in Economics, with exchange semesters at the University of Edinburgh and at the Solvay Brussels School of Economics and Management in Brussels. In my master's thesis I examined how global supply chain bottlenecks transmit to industrial production and producer prices in Germany and the United States. The Konrad-Adenauer-Stiftung supported my studies with a scholarship in recognition of academic achievement and voluntary engagement.
+
+I worked in empirical economic research throughout my studies. At the Chair of Economic Policy (Prof. Dr. Hans Peter Grüner) at the University of Mannheim, I supported research on mechanism design in asymmetric electricity networks. At ZEW – Leibniz Centre for European Economic Research, in the Research Unit Pensions and Sustainable Financial Markets, I worked on macroeconomic forecasting, geopolitical risk analysis, and the empirical validation of the ZEW indices.
+
+I also gained practical experience at the interface of corporate finance and procurement. At STATEC Bühnentechnik GmbH, I supported an export financing transaction and worked on improving payment flows and reducing associated risk. Before that, I worked at Russell Reynolds Associates in Executive Search and Board Services.
+
+## Positions
+
+**Doctoral Researcher**, Endowed Chair of Procurement, Business School, University of Mannheim
+*since September 2026*
+
+**Research Assistant**, Chair of Economic Policy (Prof. Dr. Hans Peter Grüner), Department of Economics, University of Mannheim
+*September 2025 – August 2026*
+
+**Research Assistant**, ZEW – Leibniz Centre for European Economic Research, Research Unit Pensions and Sustainable Financial Markets
+*September 2025 – July 2026*
+
+**Working Student**, Export Financing, STATEC Bühnentechnik GmbH, Karlsruhe
+*February – December 2024*
+
+**Research Assistant**, Executive Search and Board Services, Russell Reynolds Associates, Frankfurt am Main
+*February – September 2023*
+
+## Education
+
+**M.Sc. Economics**, University of Mannheim
+*2023 – 2026*
+
+**M.Sc. Economics (exchange semester)**, Solvay Brussels School of Economics and Management, Brussels
+*January – June 2025*
+
+**B.Sc. Economics**, University of Mannheim
+*2020 – 2023*
+
+**B.Sc. Economics (exchange semester)**, University of Edinburgh
+*September – December 2022*
+
+## Scholarships
+
+**Scholarship**, Konrad-Adenauer-Stiftung
+*2021 – 2026*
+
+## Skills
+
+**Languages** German (native), English (fluent), French (working proficiency)
+
+**Software** R, Stata, LaTeX; working knowledge of MATLAB and Julia
+
+## Contact
+
+University of Mannheim<br>
+Business School — Endowed Chair of Procurement<br>
+Schloss, Schneckenhof-Ost, Room SO 207<br>
+68161 Mannheim, Germany
+
+lukas.basler\[at\]uni-mannheim.de
+
+[Full CV (PDF)](files/CV_Basler.pdf)

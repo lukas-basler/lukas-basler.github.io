@@ -1,0 +1,44 @@
+---
+title: "Home"
+page-layout: full
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-8}
+
+## Welcome
+
+I am a doctoral researcher at the Endowed Chair of Procurement (Prof. Dr. Christoph Bode), Area Operations Management, at the Business School of the University of Mannheim, where I joined in September 2026.
+
+My research interests lie in supply chain risk management, supply chain finance, and the macroeconomic effects of supply chain disruptions. In my master's thesis I studied how global supply chain bottlenecks transmit to industrial production and producer prices in Germany and the United States.
+
+Before joining the chair, I completed a M.Sc. in Economics at the University of Mannheim, including an exchange semester at the Solvay Brussels School of Economics and Management. Alongside my studies I worked in empirical economic research at the Chair of Economic Policy at the University of Mannheim and at ZEW – Leibniz Centre for European Economic Research, and gained practical experience at the interface of corporate finance and procurement.
+
+If you would like to get in touch, I am glad to hear from you.
+
+:::
+
+::: {.g-col-12 .g-col-md-4 .contact-card}
+
+![](images/profile.jpg){.profile-pic fig-alt="Lukas Basler"}
+
+#### Lukas Basler {.card-name}
+
+Doctoral Researcher
+
+University of Mannheim<br>
+Business School<br>
+Endowed Chair of Procurement
+
+Schloss, Schneckenhof-Ost<br>
+Room SO 207<br>
+68161 Mannheim, Germany
+
+lukas.basler\[at\]uni-mannheim.de
+
+[CV](files/CV_Basler.pdf) · [Chair profile](https://www.bwl.uni-mannheim.de/en/bode/team/) · [LinkedIn](https://www.linkedin.com/in/lukas-basler/)
+
+:::
+
+:::

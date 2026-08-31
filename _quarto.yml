@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lukas Basler"
+  description: "Academic webpage of Lukas Basler, doctoral researcher in Operations Management at the University of Mannheim"
+  site-url: "https://lukas-basler.github.io"
+  favicon: images/favicon.png
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+    right:
+      - icon: envelope
+        href: "mailto:lukas.basler@uni-mannheim.de"
+        aria-label: Email
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/lukas-basler/"
+        aria-label: LinkedIn
+  page-footer:
+    border: true
+    left: |
+      **Lukas Basler**<br>
+      Endowed Chair of Procurement<br>
+      University of Mannheim
+    center: |
+      Schloss, Schneckenhof-Ost<br>
+      68161 Mannheim, Germany
+    right: |
+      [Chair](https://www.bwl.uni-mannheim.de/en/bode/)<br>
+      [LinkedIn](https://www.linkedin.com/in/lukas-basler/)<br>
+      [Imprint](imprint.qmd)
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    anchor-sections: false
+    grid:
+      body-width: 900px
+
+execute:
+  freeze: auto
