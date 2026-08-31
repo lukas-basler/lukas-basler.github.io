@@ -1,5 +1,6 @@
 ---
 title: "Home"
+lang: en
 page-layout: full
 ---
 

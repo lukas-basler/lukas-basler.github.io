@@ -1,5 +1,6 @@
 ---
 title: "About"
+lang: en
 ---
 
 I have been a doctoral researcher at the Endowed Chair of Procurement (Prof. Dr. Christoph Bode) at the Business School of the University of Mannheim since September 2026.
