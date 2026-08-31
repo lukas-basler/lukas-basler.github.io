@@ -1,0 +1,20 @@
+---
+title: "Forschung"
+lang: de
+---
+
+[English version](../research.qmd)
+
+## Forschungsinteressen
+
+- Supply Chain Risk Management
+- Supply Chain Finance
+- Makroökonomische Auswirkungen von Lieferkettenstörungen
+
+Meine Promotion steht noch am Anfang. Working Papers und Projekte werden auf dieser Seite ergänzt, sobald sie sich entwickeln.
+
+## Masterarbeit
+
+**Globale Lieferkettenengpässe und ihre Übertragung auf Industrieproduktion und Erzeugerpreise in Deutschland und den Vereinigten Staaten**
+
+Universität Mannheim, 2026
