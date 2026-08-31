@@ -43,6 +43,15 @@ h2 {
   font-size: 1.45rem;
 }
 
+/* Date range in CV-style entries (Positions, Education, Scholarships) */
+.cv-date {
+  display: inline-block;
+  margin-top: 0.15rem;
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+  color: var(--bs-secondary-color, #6c757d);
+}
+
 /* Hide the auto-generated title banner */
 .quarto-title-banner {
   display: none;
