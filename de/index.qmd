@@ -10,7 +10,7 @@ page-layout: full
 
 ::: {.g-col-12 .g-col-md-8}
 
-## Willkommen
+## Willkommen!
 
 Seit September 2026 bin ich wissenschaftlicher Mitarbeiter am Stiftungslehrstuhl für Procurement (Prof. Dr. Christoph Bode), Area Operations Management, an der Business School der Universität Mannheim.
 
