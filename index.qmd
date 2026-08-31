@@ -10,7 +10,7 @@ page-layout: full
 
 ::: {.g-col-12 .g-col-md-8}
 
-## Welcome
+## Welcome!
 
 I am a doctoral researcher at the Endowed Chair of Procurement (Prof. Dr. Christoph Bode), Area Operations Management, at the Business School of the University of Mannheim, where I joined in September 2026.
 
