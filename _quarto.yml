@@ -16,6 +16,9 @@ website:
       - href: research.qmd
         text: Research
     right:
+      - text: "DE"
+        href: de/index.qmd
+        aria-label: "Deutsche Version"
       - icon: envelope
         href: "mailto:lukas.basler@uni-mannheim.de"
         aria-label: Email
@@ -34,7 +37,7 @@ website:
     right: |
       [Chair](https://www.bwl.uni-mannheim.de/en/bode/)<br>
       [LinkedIn](https://www.linkedin.com/in/lukas-basler/)<br>
-      [Imprint](imprint.qmd)
+      [Imprint](/imprint.qmd) · [Impressum](/de/imprint.qmd)
 
 format:
   html:
