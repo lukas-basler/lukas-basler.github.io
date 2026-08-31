@@ -1,19 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://lukas-basler.github.io/de/research.html</loc>
+    <lastmod>2026-08-31T10:50:32.018Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lukas-basler.github.io/de/index.html</loc>
+    <lastmod>2026-08-31T10:50:32.018Z</lastmod>
+  </url>
+  <url>
     <loc>https://lukas-basler.github.io/research.html</loc>
-    <lastmod>2026-08-31T10:26:35.341Z</lastmod>
+    <lastmod>2026-08-31T10:50:32.018Z</lastmod>
   </url>
   <url>
     <loc>https://lukas-basler.github.io/index.html</loc>
-    <lastmod>2026-08-31T10:26:35.341Z</lastmod>
+    <lastmod>2026-08-31T10:50:32.018Z</lastmod>
   </url>
   <url>
     <loc>https://lukas-basler.github.io/about.html</loc>
-    <lastmod>2026-08-31T10:26:35.340Z</lastmod>
+    <lastmod>2026-08-31T10:50:32.017Z</lastmod>
   </url>
   <url>
     <loc>https://lukas-basler.github.io/imprint.html</loc>
-    <lastmod>2026-08-31T10:26:35.341Z</lastmod>
+    <lastmod>2026-08-31T10:50:32.018Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lukas-basler.github.io/de/about.html</loc>
+    <lastmod>2026-08-31T10:50:32.017Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lukas-basler.github.io/de/imprint.html</loc>
+    <lastmod>2026-08-31T10:50:32.018Z</lastmod>
   </url>
 </urlset>
